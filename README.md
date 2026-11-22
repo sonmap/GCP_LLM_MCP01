@@ -41,7 +41,7 @@ GitHub (소스)
 
 ```bash
 gcloud auth application-default login
-gcloud config set project <PROJECT_ID>
+gcloud config set project pjt-c-admin
 ```
 
 GitHub 에서 Fine-grained PAT 를 발급합니다. 1차에 필요한 권한은 **Contents: Read** 뿐입니다.

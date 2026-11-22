@@ -1,4 +1,4 @@
-project_id = "my-gcp-project"
+project_id = "pjt-c-admin"
 region     = "asia-northeast3"
 zone       = "asia-northeast3-a"
 
