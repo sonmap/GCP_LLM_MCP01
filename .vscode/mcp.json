@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "scm-mcp": {
+      "type": "http",
+      "url": "http://localhost:8081/mcp"
+    },
+    "inspect-mcp": {
+      "type": "http",
+      "url": "http://localhost:8082/mcp"
+    }
+  }
+}

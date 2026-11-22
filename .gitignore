@@ -1,0 +1,16 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+terraform/.build/
+crash.log
+
+# 로컬 환경
+.env
+*.patch
+
+# Python
+__pycache__/
+*.pyc
